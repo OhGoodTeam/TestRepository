@@ -23,6 +23,8 @@ jobs:
               reviewers = ['minsss0726', 'gaaaani', 'sunJ0120'];
             } else if (branch === 'dev') {
               reviewers = ['minsss0726', 'window101', 'parkeunhyo', 'gaaaani', 'sunJ0120'];
+            } else {
+              reviewers = ['minsss0726', 'window101', 'parkeunhyo', 'gaaaani', 'sunJ0120'];
             }
 
             if (reviewers.length > 0) {
